@@ -1,2 +1,6 @@
 line from local
+
 new line from local
+
+new line from remote
+
